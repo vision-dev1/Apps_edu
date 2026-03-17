@@ -1,8 +1,4 @@
-/**
- * APPS Educational Network — Main Module
- * Contact form, newsletter, FAQ accordion, back-to-top
- */
-
+// Codes By Visionnn
 document.addEventListener('DOMContentLoaded', () => {
 
   /* ─── Contact Form Handling ─── */
