@@ -1,8 +1,4 @@
-/**
- * APPS Educational Network — Animations Module
- * IntersectionObserver-based scroll reveal & stagger delays
- */
-
+// Codes By Visionnn
 document.addEventListener('DOMContentLoaded', () => {
 
   /* ─── Tag Elements for Reveal ─── */
