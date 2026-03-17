@@ -1,8 +1,4 @@
-/**
- * APPS Educational Network — Navigation Module
- * Mobile menu, smooth scrolling, active-nav highlighting, link wiring
- */
-
+// Codes By Visionnn
 document.addEventListener('DOMContentLoaded', () => {
 
   /* ─── Smooth Scrolling (CSS-level) ─── */
